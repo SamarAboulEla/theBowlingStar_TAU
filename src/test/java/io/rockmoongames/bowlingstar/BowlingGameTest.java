@@ -1,0 +1,11 @@
+package io.rockmoongames.bowlingstar;
+
+import git config core.autocrlf true.
+
+public class BowlingGameTest {
+
+    @Test
+    public void jessicaTestOne() {
+
+    }
+}
