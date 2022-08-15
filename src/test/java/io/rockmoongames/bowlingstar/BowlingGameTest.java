@@ -13,4 +13,9 @@ public class BowlingGameTest {
     public void samarTestOne() {
 
     }
+
+    @Test
+    public void samarTestTwo() {
+
+    }
 }
