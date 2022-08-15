@@ -1,6 +1,6 @@
 package io.rockmoongames.bowlingstar;
 
-import git config core.autocrlf true.
+import org.junit.jupiter.api.Test;
 
 public class BowlingGameTest {
 
